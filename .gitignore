@@ -1,0 +1,14 @@
+# Dependencies & Environment
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# Vercel deployment folder
+.vercel
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
